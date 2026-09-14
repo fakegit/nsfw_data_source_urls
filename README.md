@@ -1,5 +1,9 @@
 # NSFW data source URLs
 
+> **Maintenance status**
+>
+> Historical resource. This repository is no longer maintained. Linked content may have changed or become unavailable. The statistics and instructions below are retained for reference and are not kept up to date.
+
 ## Description
 
 Repository contains lists of URLs that will help you download NSFW images, this set can be used in building big enough dataset to train robust NSFM classification model.
@@ -187,4 +191,3 @@ In folder `raw_data` you will find different `txt` files each of them contains l
 	- etc
 2. Pay attention to noise, some resources provide highly mixed data of NSFW and neutral images
 3. This repository helps in retrieving NSFW images and there's no special URLs for neutral content
-
